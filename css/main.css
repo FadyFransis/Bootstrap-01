@@ -1,4 +1,15 @@
 /*
 Theme name :elete corp
 Theme coder :fady fransis
+firstcolor :#085266
+secondcolor:#eclc23
 */
+.upper-bar
+{
+    background-color: #08526d;
+    color:white;
+}
+.upper-bar .left-text
+{
+    /* justify-content: left; */
+}
